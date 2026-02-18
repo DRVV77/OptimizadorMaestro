@@ -1,0 +1,2 @@
+C:\Users\David\Downloads\OptimizadorMaestro_CS\OptimizadorMaestro\bin\Release\net8.0-windows\win-x64\publish\OptimizadorMaestro.pdb
+C:\Users\David\Downloads\OptimizadorMaestro_CS\OptimizadorMaestro\bin\Release\net8.0-windows\win-x64\publish\OptimizadorMaestro.exe
