@@ -107,7 +107,7 @@ O simplemente haz **doble clic en `COMPILAR.bat`** y espera 1-2 minutos. El EXE 
 
 ## 🖼️ Capturas de pantalla
 
-> *(Próximamente)*
+![OptimizadorMaestro](screenshot.png)
 
 ---
 
